@@ -8,3 +8,4 @@ Comandos:
 - git add
 - git commit
 - VS SOURCE CONTROL
+- cambio
