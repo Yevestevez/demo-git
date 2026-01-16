@@ -17,3 +17,5 @@ Ramas:
 - git branch
 - git merge
 - git checkout
+    - Fast-forward
+    - ort / recursive
