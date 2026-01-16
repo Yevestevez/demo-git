@@ -1,6 +1,6 @@
 # Demo Git
 
-Esto es una demo del uso de Git.
+Esto es una demo del uso de Git y Github
 
 Comandos:
 
@@ -8,6 +8,7 @@ Comandos:
 - git add
 - git commit
 
+- git remote
 - git clone
 - git push
 - git pull
@@ -17,3 +18,5 @@ Ramas:
 - git branch
 - git merge
 - git checkout
+
+Bla bla bla bla...
